@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">姓名:</string>
+    <string name="gender">性別:</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="weight">請輸入體重(公斤)</string>
+    <string name="height">請輸入身高(公尺)</string>
+    <string name="ast">星座:</string>
+    <string name="an">生肖:</string>
+    <string name="bmi">BMI</string>
+
+    <string name="next">下一頁</string>
+    <string name="back">回上一頁</string>
+    <string name="end">結束</string>
+
+    <string name="norm">標準</string>
+    <string name="over">過重</string>
+    <string name="under">過輕</string>
+
+    <string name="setup">設定字型大小, 顏色</string>
+    <string name="fontSize">字型大小:</string>
+    <string name="color">顏色:</string>
+
+    <string name="news">輕颱電母生成 對台無直接影響今年第8號輕度颱風電母生成 (編號第 08 號，國際命名 DIANMU)，中央氣象局今天上午表示，電母位於恆春西方約990公里海面上，研判對台灣沒有直接影響，但外圍雲系會帶來短暫陣雨，台灣沿海也易有長浪。
+氣象局說，原本在廣東海面的熱帶性低氣壓上午形成輕度颱風電母，因颱風往廣東陸地移動，不會朝台灣來；
+不過颱風外圍雲系仍能為台灣帶來水氣，中南部及東部會有短暫陣雨。
+氣象局也提醒，台灣西南部、東半部、恆春半島沿海及澎湖、金門、綠島、蘭嶼，也因電母颱風可能有長浪。</string>
+
+    <string name="toggleButton">我是 (toggleButton)</string>
+    <string name="toggleButtonOn">開啟</string>
+    <string name="toggleButtonOff">關閉</string>
+</resources>
